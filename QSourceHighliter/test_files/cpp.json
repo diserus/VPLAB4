@@ -1,0 +1,5 @@
+{
+    "language": "C++",
+    "text": "#include <iostream>\nint main()\n{\n\tprintf(\"hello\");\n\tint a = 0;\n\treturn 0;\n}",
+    "theme": 2
+}
